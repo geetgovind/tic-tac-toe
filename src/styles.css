@@ -39,7 +39,7 @@ h6 {
 }
 
 code {
-  font-size: 1.2em;
+  font-size: 2em;
 }
 
 ul {
@@ -57,18 +57,18 @@ body {
 }
 
 .square {
-  background: #fff;
-  border: 1px solid #999;
+  background: #4fafb6;
+  border: 2px solid #ad5bcb;
   float: left;
-  font-size: 24px;
+  font-size: 42px;
   font-weight: bold;
   line-height: 34px;
-  height: 34px;
+  height: 56px;
   margin-right: -1px;
   margin-top: -1px;
   padding: 0;
   text-align: center;
-  width: 34px;
+  width: 56px;
 }
 
 .board-row:after {
